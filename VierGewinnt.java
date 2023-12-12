@@ -1,4 +1,4 @@
-package Java.ProjektSpiele;
+package Java.MemoryJava;
 
 import java.awt.*;
 import java.awt.event.*;

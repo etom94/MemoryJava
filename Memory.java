@@ -1,5 +1,5 @@
 // Package deklariert den Paketnamen, in dem sich die Klasse befindet
-package Java.ProjektSpiele;
+package Java.MemoryJava;
 
 // Importiert verschiedene Klassen aus der Java-Standardbibliothek und anderen Paketen
 import java.awt.Color;
